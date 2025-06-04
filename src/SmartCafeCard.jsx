@@ -17,7 +17,7 @@ function SmartCafeCard() {
         <li>📦 Официанты — только подача</li>
         <li>⚡️ Быстро, удобно, эффективно</li>
       </ul>
-      <button className="learn-more">Узнать больше</button>
+      <button className="learn-more">Начни пользоваться</button>
     </div>
   );
 }
